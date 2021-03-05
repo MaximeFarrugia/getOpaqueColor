@@ -1,7 +1,11 @@
 {
   "name": "get-opaque-color",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get opaque color corresponding to color with opacity over white background",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaximeFarrugia/getOpaqueColor.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
