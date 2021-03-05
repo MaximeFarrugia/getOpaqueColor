@@ -1,0 +1,19 @@
+{
+  "name": "get-opaque-color",
+  "version": "1.0.3",
+  "description": "Get opaque color corresponding to color with opacity over white background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "opacity",
+    "opaque"
+  ],
+  "author": "Maxime Farrugia <farrugia.maxime@gmail.com> (https://maxime-farrugia.com)",
+  "license": "ISC",
+  "dependencies": {
+    "tinycolor2": "^1.4.2"
+  }
+}
